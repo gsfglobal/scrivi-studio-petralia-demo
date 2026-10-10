@@ -1,0 +1,3 @@
+# Concept demo Dental Go: non indicizzare. Sostituire al lancio con le regole definitive.
+User-agent: *
+Disallow: /
